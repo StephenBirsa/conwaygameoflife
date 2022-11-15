@@ -8,10 +8,8 @@ Gosper glider gun
 ![image](https://user-images.githubusercontent.com/27788517/201854977-80a3efb8-1710-466d-a20a-9b36d4f3643b.png)
 
 
-    //
-    //Block
 		//Block 
-    grid[100][100].isLiving = true;
+    		grid[100][100].isLiving = true;
 		grid[101][100].isLiving = true;
 		grid[100][101].isLiving = true;
 		grid[101][101].isLiving = true;
