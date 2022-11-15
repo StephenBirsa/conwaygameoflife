@@ -9,7 +9,7 @@ Gosper glider gun
 
 
 		//Block 
-    		grid[100][100].isLiving = true;
+    	grid[100][100].isLiving = true;
 		grid[101][100].isLiving = true;
 		grid[100][101].isLiving = true;
 		grid[101][101].isLiving = true;
